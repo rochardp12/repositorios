@@ -1,7 +1,7 @@
 ## Repositorios Seleccionados
 
 | Lenguaje de Programación | Nombre del Repositorio | Enlace |
-|---|---|---|
+|:---:|---|---|
 | Java| ajedrezTres                           | [Enlace](https://github.com/Niariasve/ajedrezTres)                              |
 | Java| AppContactos                          | [Enlace](https://github.com/Niariasve/AppContactos)                             |
 | Java| TicTacToe                             | [Enlace](https://github.com/Niariasve/TicTacToe)                                |
