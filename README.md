@@ -39,7 +39,7 @@
 | Python| FinancialPlanning                   | [Enlace](https://github.com/jppluas/FinancialPlanning)                          |
 | Python| ProyectoLP2024-Grupo9               | [Enlace](https://github.com/carana08/ProyectoLP2024-Grupo9)                     |
 | Python| Buenas_Practicas_Codigo             | [Enlace](https://github.com/carana08/Buenas_Practicas_Codigo)                   |
-| Python| CIWorkshop                          | [Enlace](https://github.com/carana08/CIWorkshop)                                |
+| Python| Proyecto_Convertidor                | [Enlace](https://github.com/carana08/Proyecto_Convertidor)                      |
 | Python| CodingStandars_JoseRamos            | [Enlace](https://github.com/josdramo/CodingStandars_JoseRamos)                  |
 | Python| galapagosApp-back                   | [Enlace](https://github.com/rochardp12/galapagosApp-back)                       |
 | Python| SisteReservaVuelos_Back             | [Enlace](https://github.com/katumbac/SisteReservaVuelos_Back)                   |
